@@ -168,11 +168,22 @@ img::-moz-selection {
     padding: 12px 0;
   }
 }
+header.masthead1{
+  background-image: url("../img/header1.jpg") !important;
+}
+
+header.masthead2{
+  background-image: url("../img/header2.png") !important;
+}
+
+header.masthead3{
+  background-image: url("../img/header3.jpg") !important;
+}
+
 
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
