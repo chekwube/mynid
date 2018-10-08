@@ -65,7 +65,7 @@
                                 <div class="container">
                                     <div class="intro-text">
                                         <div class="intro-lead-in">Welcome  To Numeric Identity</div>
-                                        <div class="intro-heading text text-info"><h3>Protecting Your Data and Reputation</h3></div>
+                                        <!--<div class="intro-heading text text-info"><h3>Protecting Your Data and Reputation</h3></div>-->
                                         <a class="btn btn-outline-warning btn-md text-uppercase text-white js-scroll-trigger" href="#portfolio">Tell Me More</a>
                                     </div>
                                 </div>
@@ -76,7 +76,7 @@
                                 <div class="container">
                                     <div class="intro-text">
                                         <div class="intro-lead-in">Information <span class="special_amp">&</span> Cyber Security Company</div>
-                                        <div class="intro-heading text text-info"><h3>Protecting Your Data and Reputation</h3></div>
+                                        <div class="intro-heading text text-default"><h3>Protecting Your Data and Reputation</h3></div>
                                         <a class="btn btn-outline-warning btn-md text-uppercase text-white js-scroll-trigger" href="#portfolio">Tell Me More</a>
                                     </div>
                                 </div>
@@ -86,8 +86,8 @@
                             <header class="masthead masthead3">
                                 <div class="container">
                                     <div class="intro-text">
-                                        <div class="intro-lead-in">Information <span class="special_amp">&</span> Cyber Security Company</div>
-                                        <div class="intro-heading text text-info"><h3>Protecting Your Data and Reputation</h3></div>
+                                        <!--<div class="intro-lead-in">Information <span class="special_amp">&</span> Cyber Security Company</div>-->
+                                        <div class="intro-heading text text-default"><h3>Quality.Reliable<span class="special_amp">&</span>Affordable</h3></div>
                                         <a class="btn btn-outline-warning btn-md text-uppercase text-white js-scroll-trigger" href="#portfolio">Tell Me More</a>
                                     </div>
                                 </div>
